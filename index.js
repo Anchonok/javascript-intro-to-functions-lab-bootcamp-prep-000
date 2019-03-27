@@ -18,8 +18,3 @@ function sayHiToGrandma(string) {
   if ('hello')
   return("I can't hear you!")
 }  
-
-function sayHiToGrandma(string) {
-  if ('I love you, Grandma.')
-  return ("I love you, too.")
-}
